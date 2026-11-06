@@ -54,3 +54,6 @@ powershell -NoProfile -ExecutionPolicy Bypass -File C:\tools\abdm\install.ps1 -U
 ```
 
 然后重启 DSH，再把 `C:\tools\abdm\` 目录删掉即可。
+## 鸣谢
+
+- ab-download-manager下载器创作者，本项目是基于ab-download-manager二次开发，原仓库地址为https://github.com/amir1376/ab-download-manager
